@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|d:\\4th semester\\data base\\mid project\\midproject2\\assesmentcomponentform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:assesmentcomponentform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\cloviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:cloviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\cloviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:cloviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\assesmentcomponentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:assesmentcomponentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\cloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:cloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\assessmentview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:assessmentview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\assessmentview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:assessmentview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\assessmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:assessmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\assessmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:assessmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\assessmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:assessmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\assessmentcomponentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:assessmentcomponentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\assessmentcomponentview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ACB93B-0C5C-4BFE-9242-C0AF1DBF9DE2}|midproject2.csproj|solutionrelative:assessmentcomponentview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloViewForm.cs",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\CloViewForm.cs",
+              "RelativeDocumentMoniker": "CloViewForm.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\CloViewForm.cs",
+              "RelativeToolTip": "CloViewForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:15:50.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CloViewForm.cs [Design]",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\CloViewForm.cs",
+              "RelativeDocumentMoniker": "CloViewForm.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\CloViewForm.cs [Design]",
+              "RelativeToolTip": "CloViewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:13:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CLOForm.cs [Design]",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\CLOForm.cs",
+              "RelativeDocumentMoniker": "CLOForm.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\CLOForm.cs [Design]",
+              "RelativeToolTip": "CLOForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:13:23.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssessmentView.resx",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentView.resx",
+              "RelativeDocumentMoniker": "AssessmentView.resx",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentView.resx",
+              "RelativeToolTip": "AssessmentView.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-05T03:13:11.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssessmentView.Designer.cs",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentView.Designer.cs",
+              "RelativeDocumentMoniker": "AssessmentView.Designer.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentView.Designer.cs",
+              "RelativeToolTip": "AssessmentView.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:13:08.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssessmentView.cs [Design]",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentView.cs",
+              "RelativeDocumentMoniker": "AssessmentView.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentView.cs [Design]",
+              "RelativeToolTip": "AssessmentView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:13:06.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssessmentForm.Designer.cs",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentForm.Designer.cs",
+              "RelativeDocumentMoniker": "AssessmentForm.Designer.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentForm.Designer.cs",
+              "RelativeToolTip": "AssessmentForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:12:54.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssessmentForm.cs [Design]",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentForm.cs",
+              "RelativeDocumentMoniker": "AssessmentForm.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentForm.cs [Design]",
+              "RelativeToolTip": "AssessmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:12:53.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssessmentComponentView.cs [Design]",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentComponentView.cs",
+              "RelativeDocumentMoniker": "AssessmentComponentView.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentComponentView.cs [Design]",
+              "RelativeToolTip": "AssessmentComponentView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:12:49.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssesmentComponentForm.Designer.cs",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssesmentComponentForm.Designer.cs",
+              "RelativeDocumentMoniker": "AssesmentComponentForm.Designer.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssesmentComponentForm.Designer.cs",
+              "RelativeToolTip": "AssesmentComponentForm.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:12:39.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssesmentComponentForm.resx",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssesmentComponentForm.resx",
+              "RelativeDocumentMoniker": "AssesmentComponentForm.resx",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssesmentComponentForm.resx",
+              "RelativeToolTip": "AssesmentComponentForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-05T03:12:38.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\Configuration.cs",
+              "RelativeDocumentMoniker": "Configuration.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\Configuration.cs",
+              "RelativeToolTip": "Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:12:30.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssessmentComponentView.Designer.cs",
+              "DocumentMoniker": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentComponentView.Designer.cs",
+              "RelativeDocumentMoniker": "AssessmentComponentView.Designer.cs",
+              "ToolTip": "D:\\4th semester\\DATA BASE\\MID PROJECT\\midproject2\\AssessmentComponentView.Designer.cs",
+              "RelativeToolTip": "AssessmentComponentView.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:03:51.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
